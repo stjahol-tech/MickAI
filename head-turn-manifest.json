@@ -1,0 +1,8 @@
+{
+  "name": "head-turn",
+  "source": "head-turn-original.png",
+  "frames": 8,
+  "layout": "horizontal-strip",
+  "playback": "forward-or-reverse",
+  "note": "Reference strip retained unmodified; not yet wired into 8x11 atlas. Check 157.5 to 180 degree transition."
+}
